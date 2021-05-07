@@ -16,7 +16,7 @@
     "moment": "^2.27.0",
     "mongodb": "^3.5.9",
     "morgan": "~1.9.1",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "util": "^0.12.3"
   }
 }
